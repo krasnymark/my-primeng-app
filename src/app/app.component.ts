@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { PrimengTableComponent } from './primeng-table/primeng-table.component';
+import { PrimengDemoComponent } from './primeng-demo/primeng-demo.component';
 
 @Component({
   selector: 'app-root',
